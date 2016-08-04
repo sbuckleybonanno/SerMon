@@ -1,0 +1,6 @@
+.DS_Store
+SerMon.egg-info
+build
+dist
+*.pyc
+sermon/__pycache__
