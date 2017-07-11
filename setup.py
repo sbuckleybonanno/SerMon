@@ -14,5 +14,5 @@ setup(
     author = ["Samuel Buckley-Bonanno"],
     author_email = ["sbuckleybonanno@gmail.com"],
     description = ("A python library that sends and recieve serial messages to attached hardware."),
-    packages=['SerMon'],
+    packages=['SerMon']
 )
